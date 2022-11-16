@@ -4,7 +4,7 @@
 | Title | Description | Type | Original |
 | :-----------|:---------------|:-----------|:------------
 | [enna](https://github.com/efl-dev/enna)          | Greeter for spawny | Lib | [github](https://github.com/enna-project/enna) |
-| [kiosk]((https://github.com/efl-dev/kiosk) 		    | Kiosk application based on Enlightenment Foundation Libraries | App | [github](https://github.com/leiflm/bksystem) |
+| [kiosk](https://github.com/efl-dev/kiosk) 		    | Kiosk application based on Enlightenment Foundation Libraries | App | [github](https://github.com/leiflm/bksystem) |
 | calendar 		    | Simple calendar elementary app | App | [github]() |
 | car_racing 		| Car racing game | Game | [github]() |
 | Clouseau 		    | UI inspection tool aimed to debug EFL applications | Dev | [github]() |
