@@ -1,4 +1,4 @@
-# Complete EFL-based applications archive (C language)
+# Complete EFL-based code archive (C language)
 (in progress)
 
 | Title | Description | Type | Original |
